@@ -10,10 +10,17 @@ body {
 
 h1 {
   font-size: 24px;
-  text-align: center;
+  text-align: left;
   font-weight: bold;
   color: rgb(0, 0, 0);
   margin-bottom: 30px;
+}
+.text-center {
+    font-family: 'Sofia';
+    font-size: 38px;
+    font-weight: bold;
+    position: relative;
+    margin-top: 55px;
 }
 
 p {
@@ -88,6 +95,7 @@ span {
   margin-top: 0;
   margin-bottom: 20px;
   line-height: .75;
+   text-transform: uppercase;
 }
 .navbar-brand a:hover, .navbar-brand a:focus {
   text-decoration: none;
