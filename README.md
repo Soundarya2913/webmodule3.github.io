@@ -1,2 +1,2 @@
 # https://webmodule3.github.io
-# https://Soundarya2913.github.io/webmodule3.github.io/vinayaga-resort.html
+# https://soundarya2913.github.io/webmodule3.github.io/vinayaga-resort.html
