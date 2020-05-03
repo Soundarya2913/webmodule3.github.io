@@ -42,6 +42,8 @@ body{
     font-weight: bold;
     position: relative;
     margin-top: 55px;
+  text-align:center;
+  
 }
 
 #text {       
@@ -63,11 +65,11 @@ body{
     color: black;
     font-family: 'Alfa Slab One';
     font-weight: 100;
-    background-color: #AAA5A5;
+    background-color: #00ffff;
 }
 
 #nav-list a:hover {
-    background-color: #AEAE52;   
+    background-color: yellow;   
 }
 
 .navbar-default .navbar-collapse {
@@ -84,10 +86,6 @@ body{
 #nav-list a:hover,{
     background: #575757;
     
-}
-#menu li{
-    text-align: center;
-
 }
 #nav-list a span{
     font-size:1.8em;
